@@ -1,2 +1,3 @@
-# t339-art-supply-sales
-Synthetic product-sales fixture for a contributor task
+# M-T339-V3 product-sales fixture
+
+Synthetic exercise data only. Units are deterministic test values, not historical sales or financial results.

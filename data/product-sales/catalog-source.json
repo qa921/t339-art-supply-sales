@@ -1,0 +1,27 @@
+{
+  "AR-001": {
+    "vendor": "Studio Source",
+    "name": "Acrylic Set",
+    "size": "12 colors"
+  },
+  "AR-002": {
+    "vendor": "Studio Source",
+    "name": "Canvas Pad",
+    "size": "9 x 12 in"
+  },
+  "AR-003": {
+    "vendor": "Studio Source",
+    "name": "Brush Roll",
+    "size": "10 brush"
+  },
+  "AR-004": {
+    "vendor": "Studio Source",
+    "name": "Ink Bottle",
+    "size": "60 ml"
+  },
+  "AR-005": {
+    "vendor": "Studio Source",
+    "name": "Sketch Book",
+    "size": "A5"
+  }
+}
